@@ -12,7 +12,11 @@ link-########
 >wallacemillerdias@gmail.com
 > 
 ## Protótipos
-![Protótipo 1](https://github.com/wallacemillerdias/mario-bros/blob/main/src/prints/Captura%20de%20tela%20de%202023-01-24%2016-55-13.png)
-![Protótipo 2](https://raw.githubusercontent.com/JeanPaulll/test-for-developer-vacancy-at-texo-it/master/src/assets/prototipos/2.png)
+![Protótipo 1](https://github.com/wallacemillerdias/mario-bros/blob/main/src/prints/Captura%20de%20tela%20de%202023-01-24%2016-57-18.png)
+![Protótipo 2](https://github.com/wallacemillerdias/mario-bros/blob/main/src/prints/Captura%20de%20tela%20de%202023-01-24%2016-57-28.png)
+![Protótipo 3](https://github.com/wallacemillerdias/mario-bros/blob/main/src/prints/Captura%20de%20tela%20de%202023-01-24%2016-58-10.png)
+![Protótipo 4](https://github.com/wallacemillerdias/mario-bros/blob/main/src/prints/Captura%20de%20tela%20de%202023-01-24%2016-58-21.png)
+![Protótipo 5](https://github.com/wallacemillerdias/mario-bros/blob/main/src/prints/Captura%20de%20tela%20de%202023-01-24%2017-01-21.png)
+![Protótipo 6](https://github.com/wallacemillerdias/mario-bros/blob/main/src/prints/Captura%20de%20tela%20de%202023-01-24%2017-01-34.png)
 
 
